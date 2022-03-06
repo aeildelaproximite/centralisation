@@ -1,0 +1,182 @@
+.banner{
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.2) 90%), url(../../images/background/principal.png);
+	color: white;
+	padding: 250px 0px;
+	background-size: cover;
+	background-position: center;
+	margin-bottom: 40px;
+	border-radius: 15px;
+}
+
+
+.bannercampagnes{
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.2) 90%), url(../../images/background/campagne.png);
+	color: white;
+	padding: 250px 0px;
+	background-size: cover;
+	background-position: center;
+	margin-bottom: 40px;
+	border-radius: 15px;
+}
+
+.bannerbudget{
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.2) 90%), url(../../images/background/budget.png);
+	color: white;
+	padding: 250px 0px;
+	background-size: cover;
+	background-position: center;
+	margin-bottom: 40px;
+	border-radius: 15px;
+}
+
+.bannercarte{
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.2) 90%), url(../../images/background/carte.png);
+	color: white;
+	padding: 250px 0px;
+	background-size: cover;
+	background-position: center;
+	margin-bottom: 40px;
+	border-radius: 15px;
+}
+
+.bannercomm{
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.2) 90%), url(../../images/background/communication.png);
+	color: white;
+	padding: 250px 0px;
+	background-size: cover;
+	background-position: center;
+	margin-bottom: 40px;
+	border-radius: 15px;
+}
+
+.bannerfeedback{
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.2) 90%), url(../../images/background/feedback.png);
+	color: white;
+	padding: 250px 0px;
+	background-size: cover;
+	background-position: center;
+	margin-bottom: 40px;
+	border-radius: 15px;
+}
+
+.bannerformation{
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.2) 90%), url(../../images/background/formation.png);
+	color: white;
+	padding: 250px 0px;
+	background-size: cover;
+	background-position: center;
+	margin-bottom: 40px;
+	border-radius: 15px;
+}
+
+.bannerinterasso{
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.2) 90%), url(../../images/background/interasso.png);
+	color: white;
+	padding: 250px 0px;
+	background-size: cover;
+	background-position: center;
+	margin-bottom: 40px;
+	border-radius: 15px;
+}
+
+.bannerinventaire{
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.2) 90%), url(../../images/background/inventaire.png);
+	color: white;
+	padding: 250px 0px;
+	background-size: cover;
+	background-position: center;
+	margin-bottom: 40px;
+	border-radius: 15px;
+}
+
+.bannerrep{
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.2) 90%), url(../../images/background/rep.png);
+	color: white;
+	padding: 250px 0px;
+	background-size: cover;
+	background-position: center;
+	margin-bottom: 40px;
+	border-radius: 15px;
+}
+
+.bannerrse{
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.2) 90%), url(../../images/background/rse.png);
+	color: white;
+	padding: 250px 0px;
+	background-size: cover;
+	background-position: center;
+	margin-bottom: 40px;
+	border-radius: 15px;
+}
+
+.bannertreso{
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.2) 90%), url(../../images/background/tresorerie.png);
+	color: white;
+	padding: 250px 0px;
+	background-size: cover;
+	background-position: center;
+	margin-bottom: 40px;
+	border-radius: 15px;	
+}
+
+.bannercontacter{
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.2) 90%), url(../../images/background/contacter.png);
+	color: white;
+	padding: 250px 0px;
+	background-size: cover;
+	background-position: center;
+	margin-bottom: 40px;
+	border-radius: 15px;	
+}
+
+.otherback{
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.2) 90%), url(../../images/background2.png);
+	color: white;
+	padding: 175px 0px;
+	background-size: cover;
+	background-position: center;
+	margin-bottom: 40px;
+	border-radius: 15px;
+}
+
+.banner h1{
+	font-size: 50px;
+	text-align: center;
+	color: #000000;
+	background-color: #dee3e2;
+	border-radius: 15px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+}
+
+.banner h2{
+	font-size: 35px;
+	text-align: center;
+	font-weight: lighter;
+	margin-bottom: 50px;
+	color: #000000;
+	background-color: #dee3e2;
+	border-radius: 15px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+}
+
+.banner p{
+	font-size: 25px;
+	text-align: left;
+	font-weight: lighter;
+	margin-bottom: 50px;
+	color: #000000;
+	background-color: #dee3e2;
+	border-radius: 15px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+}
+
+.banne{
+	font-size: 20px;
+	text-align: left;
+	font-weight: lighter;
+	margin-bottom: 50px;
+	color: #000000;
+	background-color: #dee3e2;
+	border-radius: 15px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+}
